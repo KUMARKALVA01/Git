@@ -1,0 +1,9 @@
+Git practice
+Git config --global user.name “kumar”
+Git config --global user.email  “kalva.kumar@gmail.com”
+Git init
+Git add .
+Git commit -m “comit name”
+Git branch -M main
+Git remote add origin url
+Git push -u origin main
