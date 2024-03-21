@@ -10,4 +10,11 @@ Git push -u origin main
 
 Git fetch  get all the changes from the origin (No merge)
 Git pull   get all the changes from origin and merge
+-------------
+git fetch origin
+git stash
+git rebase --abort
+git stash apply
+git rebase origin/master
+git push origin HEAD: refs/for/master
 
