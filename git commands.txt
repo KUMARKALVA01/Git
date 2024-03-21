@@ -7,3 +7,7 @@ Git commit -m “comit name”
 Git branch -M main
 Git remote add origin url
 Git push -u origin main
+
+Git fetch  get all the changes from the origin (No merge)
+Git pull   get all the changes from origin and merge
+
