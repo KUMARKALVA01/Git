@@ -1,4 +1,4 @@
-Git practice
+        IMP Git commands for practice
 Git config --global user.name “kumar”
 Git config --global user.email  “kalva.kumar@gmail.com”
 Git init
